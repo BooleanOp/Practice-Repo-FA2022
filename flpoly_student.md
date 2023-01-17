@@ -1,27 +1,28 @@
-## Student Name (or name you would preferred to be called)
+## Andrei A. Bailes
 
-### Fall 2022
+### Spring '22
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Introduction to Data Science	
 
-- Course 2
+- Operations Research	
 
-- Course 3
+- Entrepreneurial Opportunity Analysis	
 
-- Course 4
+- Introduction to Business Finance
+
+- Purchasing and Materials Management	
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Honkai
 
-- Thing 2
-
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- FF XIV music
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/16
+
